@@ -3,10 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.todo</groupId>
   <artifactId>NoteTaker</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
   <name>NoteTaker Maven Webapp</name>
   <url>http://maven.apache.org</url>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -32,4 +33,5 @@
   <build>
     <finalName>NoteTaker</finalName>
   </build>
+  
 </project>
